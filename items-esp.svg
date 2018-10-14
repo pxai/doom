@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="696.18936"
-     inkscape:cy="457.87696"
+     inkscape:zoom="0.175"
+     inkscape:cx="15.017749"
+     inkscape:cy="76.998242"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -147,7 +147,8 @@
            width="182.85715"
            id="rect3174" /></flowRegion><flowPara
          id="flowPara3176" /></flowRoot>    <g
-       id="g9268">
+       id="g9268"
+       transform="translate(0,-11.160755)">
       <g
          id="g6690"
          transform="translate(-0.67478414,0)">
@@ -230,7 +231,7 @@ TTPgeYR8QNRJ4gfonp77r5wTSCw54TIRY9fH7tCnuN5tPtVvhxmkGG/x0Hcx7Tbrd/VL/7hxm26q
          y="134.95151" />
     </g>
     <g
-       transform="translate(232.18236,-11.160755)"
+       transform="translate(225.48215,-11.160755)"
        id="g9268-4">
       <g
          id="g6690-6"
@@ -289,7 +290,7 @@ TTPgeYR8QNRJ4gfonp77r5wTSCw54TIRY9fH7tCnuN5tPtVvhxmkGG/x0Hcx7Tbrd/VL/7hxm26q
          y="134.95151" />
     </g>
     <g
-       transform="translate(469.32521,1.4285823)"
+       transform="translate(450.96429,-11.160755)"
        id="g9268-3">
       <g
          id="g6690-0"
@@ -348,7 +349,8 @@ TTPgeYR8QNRJ4gfonp77r5wTSCw54TIRY9fH7tCnuN5tPtVvhxmkGG/x0Hcx7Tbrd/VL/7hxm26q
          y="134.95151" />
     </g>
     <g
-       id="g9493">
+       id="g9493"
+       transform="translate(-9.325214,-17.84856)">
       <g
          id="g6690-8"
          transform="translate(8.6504299,320)">
@@ -431,7 +433,7 @@ Tdv308ln2p8/XWb+AFEgHmjU3JJ+AAAAAElFTkSuQmCC
          y="451.11218" />
     </g>
     <g
-       transform="translate(234.28571,6.9662619e-6)"
+       transform="translate(216.15693,-17.84856)"
        id="g9493-0">
       <g
          id="g6690-8-4"
@@ -490,7 +492,7 @@ Tdv308ln2p8/XWb+AFEgHmjU3JJ+AAAAAElFTkSuQmCC
          y="451.11218" />
     </g>
     <g
-       transform="translate(467.14286,1.4285784)"
+       transform="translate(441.63908,-17.84856)"
        id="g9493-8">
       <g
          id="g6690-8-2"
@@ -549,7 +551,8 @@ Tdv308ln2p8/XWb+AFEgHmjU3JJ+AAAAAElFTkSuQmCC
          y="451.11218" />
     </g>
     <g
-       id="g10539">
+       id="g10539"
+       transform="translate(-5.0395021,-25.964945)">
       <g
          id="g6690-8-9"
          transform="translate(4.364718,641.42858)">
@@ -654,34 +657,38 @@ RU5ErkJggg==
          y="769.64795" />
     </g>
     <g
-       transform="translate(241.50758,640)"
-       id="g6690-8-9-3">
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.31988472"
-         id="rect4368-0-15-7-7"
-         width="223.48215"
-         height="311.31219"
-         x="36.75135"
-         y="43.848961" />
-      <flowRoot
-         xml:space="preserve"
-         id="flowRoot5063-3-2-0"
-         style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         transform="translate(0.71830292,0)"><flowRegion
-           id="flowRegion5065-51-50-7"><rect
-             id="rect5067-1-2-1"
-             width="178.57143"
-             height="35"
-             x="59.285713"
-             y="45.219345"
-             style="text-align:center;text-anchor:middle;fill:#800000" /></flowRegion><flowPara
-           id="flowPara5069-4-48-9"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:DooM;-inkscape-font-specification:DooM;fill:#800000">backpack</flowPara></flowRoot>    </g>
-    <image
-       y="770.71942"
-       x="322.14288"
-       id="image10648"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAdCAYAAAC9pNwMAAAABHNCSVQICAgIfAhkiAAABK1JREFU
+       id="g10909"
+       transform="translate(-16.700217,-24.536365)">
+      <g
+         id="g6690-8-9-3"
+         transform="translate(241.50758,640)">
+        <rect
+           y="43.848961"
+           x="36.75135"
+           height="311.31219"
+           width="223.48215"
+           id="rect4368-0-15-7-7"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.31988472" />
+        <flowRoot
+           transform="translate(0.71830292,0)"
+           style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5063-3-2-0"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5065-51-50-7"><rect
+               style="text-align:center;text-anchor:middle;fill:#800000"
+               y="45.219345"
+               x="59.285713"
+               height="35"
+               width="178.57143"
+               id="rect5067-1-2-1" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:DooM;-inkscape-font-specification:DooM;fill:#800000"
+             id="flowPara5069-4-48-9">backpack</flowPara></flowRoot>      </g>
+      <image
+         width="127.53694"
+         height="123.28571"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeSpeed"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAdCAYAAAC9pNwMAAAABHNCSVQICAgIfAhkiAAABK1JREFU
 SImtls9u20YQxn8UWZImaVgmLdkxLDkFlDZJCwdIr+0b5NYX6qP0IXLqJYf2GKCogdSBEyexVDuW
 bEpWJFJcShR7oEiR+uOkQAcgRO6M9ttv9pvZlYhj1tmzn+7HAM9//yDlv9fZYlz6vcqktcCSVHA8
 +/EQx753Fy5u9yPP/zgvDsbxSvCVwEePqzFA3TEAcOx76JoOQNk0V4Leeh6BCPjzzVn2v6brc3xy
@@ -705,9 +712,114 @@ HD2uxr1uSKNmLYHlrzqLyk9PIU1XVl4O0vJM7W1rmGQxjqXselvbK8eKYWeMU8szT1eftsJ1mcnH
 pjYILCZ+l9bVrQS5OlYMuxAwt9UKF2lbXONftqIOChf62l453rbVTPb/h11d+qRzpmwB/gWSdM3k
 lSXjpQAAAABJRU5ErkJggg==
 "
-       style="image-rendering:optimizeSpeed"
-       preserveAspectRatio="none"
-       height="123.28571"
-       width="127.53694" />
-  </g>
+         id="image10648"
+         x="322.14288"
+         y="770.71942" />
+      <g
+         transform="translate(10.431051,3.5714286)"
+         id="g10902">
+        <rect
+           style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.31988472"
+           id="rect10691"
+           width="44.075348"
+           height="55.776768"
+           x="561.69824"
+           y="805.14929"
+           rx="6.625257"
+           ry="8.0365562"
+           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)" />
+        <flowRoot
+           transform="translate(-290.91766,-47.941498)"
+           style="font-style:normal;font-weight:normal;font-size:37.05209732px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot6712-2-6-6"
+           xml:space="preserve"><flowRegion
+             id="flowRegion6714-87-0-8"><rect
+               style="fill:#800000"
+               y="979.59015"
+               x="667.52496"
+               height="79.050514"
+               width="122.26569"
+               id="rect6716-6-2-6" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DooM;-inkscape-font-specification:DooM;fill:#800000"
+             id="flowPara6718-8-3-9">x2</flowPara></flowRoot>      </g>
+    </g>
+    <g
+       transform="translate(208.78193,-24.536365)"
+       id="g10909-7">
+      <g
+         id="g6690-8-9-3-2"
+         transform="translate(241.50758,640)">
+        <rect
+           y="43.848961"
+           x="36.75135"
+           height="311.31219"
+           width="223.48215"
+           id="rect4368-0-15-7-7-6"
+           style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.31988472" />
+        <flowRoot
+           transform="translate(0.71830292,0)"
+           style="font-style:normal;font-weight:normal;font-size:30px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot5063-3-2-0-8"
+           xml:space="preserve"><flowRegion
+             id="flowRegion5065-51-50-7-8"><rect
+               style="text-align:center;text-anchor:middle;fill:#800000"
+               y="45.219345"
+               x="59.285713"
+               height="35"
+               width="178.57143"
+               id="rect5067-1-2-1-9" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:DooM;-inkscape-font-specification:DooM;fill:#800000"
+             id="flowPara5069-4-48-9-8">backpack</flowPara></flowRoot>      </g>
+      <image
+         width="127.53694"
+         height="123.28571"
+         preserveAspectRatio="none"
+         style="image-rendering:optimizeSpeed"
+         xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAdCAYAAAC9pNwMAAAABHNCSVQICAgIfAhkiAAABK1JREFU SImtls9u20YQxn8UWZImaVgmLdkxLDkFlDZJCwdIr+0b5NYX6qP0IXLqJYf2GKCogdSBEyexVDuW bEpWJFJcShR7oEiR+uOkQAcgRO6M9ttv9pvZlYhj1tmzn+7HAM9//yDlv9fZYlz6vcqktcCSVHA8 +/EQx753Fy5u9yPP/zgvDsbxSvCVwEePqzFA3TEAcOx76JoOQNk0V4Leeh6BCPjzzVn2v6brc3xy vRJ8Cbhx6MQ//3CPq2gTXdMpmyZnrZM7mebNNKuUTRNd07nqukiBy6+/vVkCVxZBDVOm7YVsyreE usVZq/nFoACe10HTbRAwiTy+yihKcR68AGyYMscn1zytlRlGEWNPADCZKEwi8UXAiqzheQKPDt5Q UNaS8aNHFY5XMW4cOjGmXJik3/80e4vwggkApl5Y65xp5od+P79Idf6aY13Ks3VMlaNHlWRPFiZ9 8fKCFy8vMoD/4m/U7aUxiTimcejEteoGAK4X4pgqh7bBjR9mE3/z9QMCEfB365xdUy1M8jn/6+YA Y5bNQWDx/t07qcSCOaaK64XcimIFBCJABNHSyvN+b1jUgSJra+MLwIe2ke2hJwSKrKHIGsNoiggi JpGbTZh/Uj9Sv+D3hMjYagvaWFLKjqHSdH3afR/w8b2E5dDsoGsyPVfQc0WWutQ/sV0CES35U+u5 gm1Ho9ftJsBp7ebNme3RMJqi6QoimBREs+3MU5j6AzFXfuoXwSQTrWNCqzMqptr3IlwvEdLuTFim rmDJJUQwYWvnIZ1Rmb/e3FI9eMi0tI8llwr+9z2Lt61h5hcL6na2NISI2LZVkKRYPti3fhmPY8bj mLgEilLivOsznkwBMFSZXr/N9wcV9itw9uEfjI0Rg9EYQ5XX+suawmicbEOtkvTui86Ibw82Gcs2 UqNux9uORs8V5Evqc3Z8cs3Ro8qdMb4XZakeRlOuLn2ePCjz6qKEYphyVndpDQM8rZXZNVW8IGIY JQ9Q2Mt1cYGYlZ2T1DCEaLrCkwdlmq4PWHNVf1exOO/6tDojatUNXl0PufFVdE3OJkoB8xm5K24Y TZeyoOkKg2Amrh1DZddUM9BD22DXTMrq9HJAX6rzcbSD64W4Xpidt+mC18VBovC05HRtnt2McXth X3cMNVv9J98nCAKqC60wYRVRd4xCnDFrFpZcylgvtlEF4MYPl5r7jR+ia0l9m9zgScvNP7V8XHsa Ysnzhpgvq9PLQcJe3kqAXzcHWdHn0/Qldno5WBpbdXK3vZBeN2Rv3+DmFkpp/i25RK26ge9F9Loh xyfX2d5oupL1Wt+LePHygkbdXhmTj8v7U+bpr9So27FhygwCi019CECvmzButftLK0/P1nyvftvs rsxGbXcLYMZSZ+J32bZVBoFVBAYy8MXTBOYCSWozUezVpV+I2dtPFJ8eCinDQWBx30m28fjkOrkI HD2uxr1uSKNmLYHlrzqLyk9PIU1XVl4O0vJM7W1rmGQxjqXselvbK8eKYWeMU8szT1eftsJ1mcnH pjYILCZ+l9bVrQS5OlYMuxAwt9UKF2lbXONftqIOChf62l453rbVTPb/h11d+qRzpmwB/gWSdM3k lSXjpQAAAABJRU5ErkJggg== "
+         id="image10648-8"
+         x="322.14288"
+         y="770.71942" />
+      <g
+         transform="translate(10.431051,3.5714286)"
+         id="g10902-1">
+        <rect
+           style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.31988472"
+           id="rect10691-6"
+           width="44.075348"
+           height="55.776768"
+           x="561.69824"
+           y="805.14929"
+           rx="6.625257"
+           ry="8.0365562"
+           transform="matrix(0.96592583,0.25881905,-0.25881905,0.96592583,0,0)" />
+        <flowRoot
+           transform="translate(-290.91766,-47.941498)"
+           style="font-style:normal;font-weight:normal;font-size:37.05209732px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#800000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           id="flowRoot6712-2-6-6-8"
+           xml:space="preserve"><flowRegion
+             id="flowRegion6714-87-0-8-0"><rect
+               style="fill:#800000"
+               y="979.59015"
+               x="667.52496"
+               height="79.050514"
+               width="122.26569"
+               id="rect6716-6-2-6-4" /></flowRegion><flowPara
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DooM;-inkscape-font-specification:DooM;fill:#800000"
+             id="flowPara6718-8-3-9-8">x2</flowPara></flowRoot>      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4401-3-7"
+       style="font-style:normal;font-weight:normal;font-size:43.39979172px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(664.78233,997.62126)"><flowRegion
+         id="flowRegion4403-6-0"><rect
+           id="rect4405-9-57"
+           width="260.11978"
+           height="108.13968"
+           x="-2.0797817e-05"
+           y="-2.4080279" /></flowRegion><flowPara
+         id="flowPara4407-0-64"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AmazDooMRight2;-inkscape-font-specification:AmazDooMRight2"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AmazDooMLeft2;-inkscape-font-specification:AmazDooMLeft2"
+   id="flowSpan4409-48-3">Do</flowSpan>oM</flowPara></flowRoot>  </g>
 </svg>
