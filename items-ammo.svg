@@ -26,7 +26,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="433.96683"
+     inkscape:cx="-74.139897"
      inkscape:cy="303.58585"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -716,5 +716,20 @@
          x="94.031929"
          y="477.19821" />
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4401-3-7"
+       style="font-style:normal;font-weight:normal;font-size:43.39979172px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#501616;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(669.52218,1000.4189)"><flowRegion
+         id="flowRegion4403-6-0"><rect
+           id="rect4405-9-57"
+           width="260.11978"
+           height="108.13968"
+           x="-2.0797817e-05"
+           y="-2.4080279"
+           style="fill:#501616" /></flowRegion><flowPara
+         id="flowPara4407-0-64"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AmazDooMRight2;-inkscape-font-specification:AmazDooMRight2;fill:#501616"><flowSpan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:AmazDooMLeft2;-inkscape-font-specification:AmazDooMLeft2;fill:#501616"
+   id="flowSpan4409-48-3">Do</flowSpan>oM</flowPara></flowRoot>  </g>
 </svg>
