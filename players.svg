@@ -106,9 +106,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="597.43071"
-     inkscape:cy="608.15376"
+     inkscape:zoom="0.5"
+     inkscape:cx="1102.8203"
+     inkscape:cy="607.08962"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -135,6 +135,13 @@
      inkscape:label="Capa 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:2, 1;stroke-dashoffset:0;stroke-opacity:0.31988472"
+       id="rect7842"
+       width="63.63961"
+       height="407.09146"
+       x="782.39105"
+       y="299.23511" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot3170"
